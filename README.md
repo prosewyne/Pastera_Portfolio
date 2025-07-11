@@ -1,1 +1,2 @@
+PASTERA_ROSE WYNE
 SparkBoard is a collaborative idea board designed for student teams. It allows users to post suggestions, vote on ideas, leave comments, and track the progress of each idea through status labels like “New,” “In Progress,” and “Implemented.” The platform helps teams organize thoughts, prioritize projects, and work more efficiently — all in one place.
